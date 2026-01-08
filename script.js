@@ -1,0 +1,1 @@
+console.log("website iko bomba!");
